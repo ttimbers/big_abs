@@ -12,16 +12,18 @@ Determine the largetst absolute value of two numbers.
 pip install -i https://test.pypi.org/simple/ big_abs
 ```
 
-### Features
-- TODO
-
-### Dependencies
-
-- TODO
-
 ### Usage
 
-- TODO
+```
+>>> largest_absolute_value(-25, 20)
+```
+
+```
+25
+```
+
+### Dependencies
+- Python 3.7 or higher
 
 ### Documentation
 The official documentation is hosted on Read the Docs: <https://big_abs.readthedocs.io/en/latest/>
