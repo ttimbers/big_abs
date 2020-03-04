@@ -5,19 +5,19 @@ def largest_absolute_value(a, b):
     Parameters
     ----------
     a : int or float
-        A number that you want to know if its absolute value is larger than that of b
+        A number that you want to know if its absolute value is larger than b's
     b : int or float
-        A number that you want to know if its absolute value is larger than that of b
+        A number that you want to know if its absolute value is larger than a's
 
     Returns
     -------
     int or float
-        The number which has the largest absolute value (either a or b)
+        The largest absolute value (either |a| or |b|)
 
     Examples
     --------
     >>> largest_absolute_value(-25, 20)
-    -25
+    25
     """
     if a < 0:
         a = -a
