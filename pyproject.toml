@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "big_abs"
-version = "0.1.2"
+version = "0.1.3"
 description = "Determine the largest absolute value of two numbers."
 authors = ["ttimbers <tiffany.timbers@stat.ubc.ca>"]
 license = "MIT"
