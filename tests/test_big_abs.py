@@ -1,4 +1,4 @@
-from big_abs import big_abs
+import big_abs
 
 
 def test_largest_absolute_value():
