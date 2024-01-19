@@ -2,7 +2,7 @@
 
 ![](https://github.com/ttimbers/big_abs/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/ttimbers/big_abs/branch/master/graph/badge.svg)](https://codecov.io/gh/ttimbers/big_abs) ![Release](https://github.com/ttimbers/big_abs/workflows/Release/badge.svg)
 
-[![Documentation Status](https://readthedocs.org/projects/big_abs/badge/?version=latest)](https://big_abs.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/big-abs/badge/?version=latest)](https://big-abs.readthedocs.io/en/latest/?badge=latest)
 
 Returns the largest absolute value of two numbers.
 
